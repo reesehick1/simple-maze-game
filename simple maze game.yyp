@@ -8,6 +8,7 @@
     {"id":{"name":"Obj_block","path":"objects/Obj_block/Obj_block.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"order":1,},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":3,},
     {"id":{"name":"main_room","path":"rooms/main_room/main_room.yy",},"order":0,},
   ],
   "Options": [
