@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object3",
+  "name": "obj_kelp",
   "spriteId": {
     "name": "spr_kelp",
     "path": "sprites/spr_kelp/spr_kelp.yy",
